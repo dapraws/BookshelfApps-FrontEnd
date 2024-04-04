@@ -160,6 +160,8 @@ main {
     border: 2px solid black;
     border-radius: 5px;
     margin: 10px 0;
+    background-color: burlywood;
+
 }
 
 .book_shelf > .book_list > .book_item > h3, p {
